@@ -1,5 +1,11 @@
 # @ctx-core/fibonacci
 
+## 4.1.0
+
+### Minor Changes
+
+- \_number\_\_fibonacci=>\_fibonacci_number
+
 ## 4.0.6
 
 ### Patch Changes

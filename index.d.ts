@@ -1,1 +1,1 @@
-export * from './lib';
+export * from './_fibonacci_number';
