@@ -1,4 +1,4 @@
-export function _fibonacci_number(n) {
+export function _fibonacci_number(n:number):number {
 	return (
 		n < 1
 		? 0
