@@ -1,1 +1,1 @@
-export * from './_fibonacci_number'
+export * from './fibonacci_number_'
