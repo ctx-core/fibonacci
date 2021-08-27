@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/fibonacci",
-	"version": "8.0.12",
+	"version": "8.0.13",
 	"description": "ctx-core fibonacci",
 	"keywords": [
 		"ctx-core",
@@ -36,7 +36,7 @@
 		"prepublishOnly": "npm run build"
 	},
 	"devDependencies": {
-		"typescript": "^4.3.5"
+		"typescript": "^4.4.2"
 	},
 	"publishConfig": {
 		"access": "public",
