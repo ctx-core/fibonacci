@@ -1,5 +1,11 @@
 # @ctx-core/fibonacci
 
+## 8.0.16
+
+### Patch Changes
+
+- compile using swc
+
 ## 8.0.15
 
 ### Patch Changes
