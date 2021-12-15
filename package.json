@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/fibonacci",
-	"version": "8.0.26",
+	"version": "8.0.27",
 	"description": "ctx-core fibonacci",
 	"keywords": [
 		"ctx-core",
@@ -12,15 +12,15 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/ctx-core/fibonacci/issues"
+		"url": "https://github.com/ctx-core/fibonacci.git"
 	},
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
 	"type": "module",
 	"exports": {
 		".": {
-			"types": "./src/index.ts",
-			"import": "./dist/index.js"
+			"import": "./dist/index.js",
+			"types": "./src/index.ts"
 		},
 		"./package.json": "./package.json"
 	},
