@@ -1,5 +1,11 @@
 # @ctx-core/fibonacci
 
+## 8.0.28
+
+### Patch Changes
+
+- fix: tsconfig.json: "rootDir": "."
+
 ## 8.0.27
 
 ### Patch Changes
