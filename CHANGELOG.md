@@ -1,5 +1,11 @@
 # @ctx-core/fibonacci
 
+## 8.0.26
+
+### Patch Changes
+
+- package.json: svelte: ./dist/index.js
+
 ## 8.0.25
 
 ### Patch Changes
