@@ -1,5 +1,11 @@
 # @ctx-core/fibonacci
 
+## 8.0.31
+
+### Patch Changes
+
+- package.json: "types": "./src/index.ts": better editing experience
+
 ## 8.0.30
 
 ### Patch Changes
