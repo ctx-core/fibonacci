@@ -1,5 +1,11 @@
 # @ctx-core/fibonacci
 
+## 8.0.34
+
+### Patch Changes
+
+- .js + .d.ts instead of .ts
+
 ## 8.0.33
 
 ### Patch Changes
