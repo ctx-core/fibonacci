@@ -1,5 +1,11 @@
 # @ctx-core/fibonacci
 
+## 8.0.37
+
+### Patch Changes
+
+- sideEffects = false
+
 ## 8.0.36
 
 ### Patch Changes
