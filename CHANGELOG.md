@@ -1,5 +1,11 @@
 # @ctx-core/fibonacci
 
+## 8.0.39
+
+### Patch Changes
+
+- package.json: exports: update
+
 ## 8.0.38
 
 ### Patch Changes
