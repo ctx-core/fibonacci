@@ -1,5 +1,11 @@
 # @ctx-core/fibonacci
 
+## 8.0.40
+
+### Patch Changes
+
+- tsx: ^3.8.2 -> ^3.9.0
+
 ## 8.0.39
 
 ### Patch Changes
