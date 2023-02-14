@@ -1,1 +1,1 @@
-export * from './fibonacci_number_.js'
+export * from './fibonacci_number_/index.js'
